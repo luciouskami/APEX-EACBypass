@@ -16,6 +16,6 @@ EAC用ObRegisterCallbacks注册了4-5个回调，直接恢复游戏秒结束，所以恢复不可行(而且
 首先对部分关键sdk函数进行下断，如下图所示：  
 ![bp Cerberus_GameRoundStart](/pics/bp.png)  
 ![游戏对EACR3模块的引用](/pics/ref.png)  
-![引用处的部分代码1](/pics/ref.png)    
-![引用处的部分代码2](/pics/ref.png)  
-![引用处的部分代码3](/pics/ref.png)  
+![引用处的部分代码1](/pics/1.png)    
+![引用处的部分代码2](/pics/2.png)  
+![引用处的部分代码3](/pics/3.png)  
